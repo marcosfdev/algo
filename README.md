@@ -1,6 +1,6 @@
 # algo
 Algorithms in JavaScript and Go
 
-[Go](js/README.md)
+[Go](go/README.md)
 
-[JavaScript](go/README.md)
+[JavaScript](js/README.md)
