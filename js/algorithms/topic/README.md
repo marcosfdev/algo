@@ -1,7 +1,7 @@
 # Algorithms by Topic
 Common topics for Algorithms include the following:
 
-##Math
+## Math
 * Bit Manipulation - set/get/update/clear bits, multiplication/division by two, make negative etc.
 * Factorial
 * Fibonacci Number - classic and closed-form versions
@@ -19,7 +19,7 @@ Common topics for Algorithms include the following:
 * Liu Hui π Algorithm - approximate π calculations based on N-gons
 * Discrete Fourier Transform - decompose a function of time (a signal) into the frequencies that make it up
 
-##Sets
+## Sets
 * Cartesian Product - product of multiple sets
 * Fisher–Yates Shuffle - random permutation of a finite sequence
 * Power Set - all subsets of a set (bitwise and backtracking solutions)
@@ -32,7 +32,7 @@ Common topics for Algorithms include the following:
 * Maximum Subarray - "Brute Force" and "Dynamic Programming" (Kadane's) versions
 * Combination Sum - find all combinations that form specific sum
 
-##Strings
+## Strings
 * Hamming Distance - number of positions at which the symbols are different
 * Levenshtein Distance - minimum edit distance between two sequences
 * Knuth–Morris–Pratt Algorithm (KMP Algorithm) - substring search (pattern matching)
@@ -41,13 +41,13 @@ Common topics for Algorithms include the following:
 * Longest Common Substring
 * Regular Expression Matching
 
-##Searches
+## Searches
 * Linear Search
 * Jump Search (or Block Search) - search in sorted array
 * Binary Search - search in sorted array
 * Interpolation Search - search in uniformly distributed sorted array
 
-##Sorting
+## Sorting
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
@@ -58,15 +58,15 @@ Common topics for Algorithms include the following:
 * Counting Sort
 * Radix Sort
 
-##Linked Lists
+## Linked Lists
 * Straight Traversal
 * Reverse Traversal
 
-##Trees
+## Trees
 * Depth-First Search (DFS)
 * Breadth-First Search (BFS)
 
-##Graphs
+## Graphs
 * Depth-First Search (DFS)
 * Breadth-First Search (BFS)
 * Kruskal’s Algorithm - finding * Minimum Spanning Tree (MST) for weighted undirected graph
@@ -83,13 +83,13 @@ Common topics for Algorithms include the following:
 * Strongly Connected Components - Kosaraju's algorithm
 * Travelling Salesman Problem - shortest possible route that visits each city and returns to the origin city
 
-##Cryptography
+## Cryptography
 Polynomial Hash - rolling hash function based on polynomial
 
-##Machine Learning
+## Machine Learning
 NanoNeuron - 7 simple JS functions that illustrate how machines can actually learn (forward/backward propagation)
 
-##Uncategorized
+## Uncategorized
 * Tower of Hanoi
 * Square Matrix Rotation - in-place algorithm
 * Jump Game - backtracking, dynamic programming (top-down + bottom-up) and greedy examples
