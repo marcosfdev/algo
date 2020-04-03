@@ -10,11 +10,11 @@ A data structure is a particular way of organizing and storing data in a compute
 * Priority Queue
 * Trie
 * Tree
-** Binary Search Tree
-** AVL Tree
-** Red-Black Tree
-** Segment Tree - with min/max/sum range queries examples
-**  Fenwick Tree (Binary Indexed Tree)
+    * Binary Search Tree
+    * AVL Tree
+    * Red-Black Tree
+    * Segment Tree - with min/max/sum range queries examples
+    * Fenwick Tree (Binary Indexed Tree)
 * Graph (both directed and undirected)
 * Disjoint Set
 * Bloom Filter
