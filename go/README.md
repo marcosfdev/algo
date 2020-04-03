@@ -1,6 +1,6 @@
 # Go
-Go algorithim and data structure examples.
+Go algorithm and data structure examples.
 
-[Algorithims](algorithms/README.md)
+[Algorithms](algorithms/README.md)
 
 [Data Structures](data-structures/README.md)
